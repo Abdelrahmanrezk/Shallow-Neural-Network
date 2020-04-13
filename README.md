@@ -17,9 +17,9 @@
 - simple Neural Network with forward propagation
 - python code for Binary Classification with Andrew Ng Course
 - manual Neural Networks Task from ex3 of week4 Ml By Andrew Ng in python.
- - One Vis All Pure Code
- - One Vis All using Scipy
- - Using Feed Forward NN
+	- One Vis All Pure Code
+	- One Vis All using Scipy
+	- Using Feed Forward NN
 - Sklearn Neural Networks Task from ex3 of week4 Ml By Andrew Ng in python.
 - Tensorflow Neural Networks Task from ex3 of week4 Ml By Andrew Ng in python.
 - Tensorflow clothes Image classifcation
