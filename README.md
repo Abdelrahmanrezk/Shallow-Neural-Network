@@ -35,17 +35,17 @@
 **some snapshot of different graph and slides and Examples**
 - Number Representation
 
-![alt text](python_implementation/images/number_style.png "Number Representation")
+![alt text](week 4/python_implementation/images/number_style.png "Number Representation")
 
 - Sigmoid function
 
-![alt text](python_implementation/images/sigmoid.png "sigmoid_plot_1")
+![alt text](week 4/python_implementation/images/sigmoid.png "sigmoid_plot_1")
 
 - Predict Number
 
-![alt text](python_implementation/images/eight_num.png "eight_num")
+![alt text](week 4/python_implementation/images/eight_num.png "eight_num")
 
 - slides snapshot
 
-![alt text](python_implementation/images/terminolgy.png "terminolgy")
+![alt text](week 4/python_implementation/images/terminolgy.png "terminolgy")
 
